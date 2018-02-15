@@ -1,0 +1,5 @@
+blurring, sharpening, edge detection, and other image processing functions
+
+
+blurring (average smoothing, Gaussian smoothing, median smoothing, etc.), 
+edge detection (Laplacian, Sobel, Scharr, Prewitt, etc.), and sharpening
